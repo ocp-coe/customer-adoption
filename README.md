@@ -2,9 +2,9 @@
 There are various methods to help customers adopt OpenShift.  The list below shows some of the primary areas that are requested from customers during the sales cycle and after purchasing OpenShift.  
 
 * Videos and Blogs
-        * [OpenShift YouTube Channel](https://www.youtube.com/user/rhopenshift/videos) -- Provides a wide assortment of OpenShift videos.
-        * [AWS Service Broker](https://www.youtube.com/watch?v=EKo3khfmhi8) -- Quick video showing the AWS service broker being used on OpenShift.
-        * [Ansible Service Broker - YouTube Channel](https://www.youtube.com/channel/UC04eOMIMiV06_RSZPb4OOBw) -- A centralized location for videos relating to the Ansible service broker and how
+	* [OpenShift YouTube Channel](https://www.youtube.com/user/rhopenshift/videos) -- Provides a wide assortment of OpenShift videos.
+	* [AWS Service Broker](https://www.youtube.com/watch?v=EKo3khfmhi8) -- Quick video showing the AWS service broker being used on OpenShift.
+	* [Ansible Service Broker - YouTube Channel](https://www.youtube.com/channel/UC04eOMIMiV06_RSZPb4OOBw) -- A centralized location for videos relating to the Ansible service broker and how
 to use APB's (Ansible Playbook Bundles) within OpenShift.
 	* [Christian Posta -- Blog](http://blog.christianposta.com/) -- Christian covers a number of topics related to OpenShift including a new book "Introducing Istio Service Mesh for Microservices" that is part of the Red Hat developer program.
 
