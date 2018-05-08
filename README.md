@@ -1,3 +1,10 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+---
+
 # Customer Adoption
 There are various methods to help customers adopt OpenShift.  The list below shows some of the primary areas that are requested from customers during the sales cycle and after purchasing OpenShift.  
 
