@@ -1,4 +1,4 @@
-# Customer Adoption <a href="{{ site.github.repository_url }}" class="btn"><font color="000000">View on GitHub</font></a> Test
+# Customer Adoption <a href="{{ site.github.repository_url }}" class="btn"><font color="000000">View on GitHub</font></a> 
 There are various methods to help customers adopt OpenShift.  The list below shows some of the primary areas that are requested from customers during the sales cycle and after purchasing OpenShift.  
 
 * Videos and Blogs
